@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Religions>
+
+<religion id="1">
+
+    <religionname>Catholic</religionname>
+    <history>Roman Catholicism traces its history to Jesus during the period of Roman occupation in the early 30s of the Common Era.</history>
+    <location>Mostly concentrated in the northern part of the Philippines, but can be found throughout the country.</location>
+    <holy_book>Bible</holy_book>
+    <leader>Pope Francis</leader>
+
+<event>
+   <event1> Christmas Day</event1>
+   <event2> Mary, Mother of God</event2>
+   <event3> Ascension Thursday</event3>
+   <event4> The Assumption of Mary</event4>
+   <event5> All Saints' Day</event5>
+</event>
+	</religion>
+
+<religion id="2">
+
+    <religionname>Iglesia ni Cristo</religionname>
+    <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo.</history>
+    <location>Can be found throughout the country, with a significant number of adherents in Luzon and Metro Manila.</location>
+    <holy_book>Pasugo: God's Message Magazine</holy_book>
+    <leader>Eduardo V. Manalo</leader>
+<event>
+    <event1>Araw ng Pasasalamat</event1>
+    <event2>Lingap sa Mamamayan</event2>
+    <event3>Aid to Humanity</event3>
+    <event4>Worldwide Walk</event4>
+    <event5>EGM Memorial Lecture</event5>
+</event>
+	</religion>
+	
+<religion id="3">
+
+    <religionname>Islam</religionname>
+    <history>Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life.</history>
+    <location>Concentrated in Mindanao, but can also be found in other parts of the country.</location>
+    <holy_book>Quran</holy_book>
+    <leader>Muhammad Khalifa</leader>
+<event>
+    <event1>Ramadan</event1>
+    <event2>Eid al-Fitr</event2>
+    <event3>Hajj </event3>
+    <event4>Eid al-Adha</event4>
+    <event5>Mawlid al-Nabi</event5>
+</event>
+	</religion>
+
+<religion id="4">
+
+    <religionname>Buddhism</religionname>
+    <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement.</history>    
+    <location>Concentrated in urban areas such as Manila and Cebu.</location>
+    <holy_book>Tipitaka</holy_book>
+    <leader>Ven. Thich Nhat Hanh</leader>
+<event>
+    <event1>Vesak</event1>
+    <event2>Magha Puja</event2>
+    <event3>Asalha Puja </event3>
+    <event4>Uposatha</event4>
+    <event5>Kathina</event5> 
+</event>
+	</religion>
+
+<religion id="5">
+
+    <religionname>Protestantism</religionname>
+    <history>a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
+    <location>Can be found throughout the country, with a significant number of adherents in the Visayas and Mindanao regions.</location>
+    <holy_book>Bible</holy_book>
+    <leader>Bishop Ted Bacani</leader>
+
+<event>
+    <event1>The Reformation</event1>
+    <event2>The Diet of Worms</event2>
+    <event3>The Great Awakening</event3>
+    <event4>The Ecumenical Movement</event4>
+    <event5>The Civil Rights Movement</event5>
+</event>
+</religion>
+</Religions>
